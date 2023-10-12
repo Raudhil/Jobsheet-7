@@ -19,5 +19,7 @@ public class ForKelipatan23 {
         System.out.printf("Total bilangan kelipatan %d dari 1 sampai 50 adalah %d\n",kelipatan,jumlah);
 
 
+
+
     }
 }
