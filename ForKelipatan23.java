@@ -18,6 +18,9 @@ public class ForKelipatan23 {
         System.out.printf("Banyaknya bilangan %d dari 1 sampai 50 adalah %d\n",kelipatan,counter);
         System.out.printf("Total bilangan kelipatan %d dari 1 sampai 50 adalah %d\n",kelipatan,jumlah);
 
+        int rata = jumlah / counter;
+        System.out.println("rata - ratanya adalah: " + rata);
+
 
 
 
